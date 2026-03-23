@@ -15,7 +15,7 @@ public class MainConverter {
 		dollarQuantity = sc.nextDouble();
 		amountPaid = CurrencyConverter.converterDolar(dollarQuantity, dollarPrice);
 		System.out.printf("Amount to be paid in reais: %.2f%n", amountPaid);
-		
+		System.out.println("aí carinha que mora logo ali, passa um dólar");
 		
 		sc.close();
 	}
