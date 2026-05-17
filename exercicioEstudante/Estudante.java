@@ -17,5 +17,6 @@ public class Estudante {
 			double missing = 60 - soma;
 			return String.format("FINAL GRADE: %.2f%nFAILED%nMISSING: %.2f POINTS%n", soma, missing);
 		}
+	System.out.println("Só sei que nada sei... algum filosofo dissee isso ai");
 	}
 }
